@@ -6,5 +6,11 @@ h1 {
 }
 h2{
     font-size:large;
-    font-stretch: italic;
+    font-style: italic;
+}
+.imagem{
+width: 30%;
+}
+p{
+    font-weight:200 ;
 }
